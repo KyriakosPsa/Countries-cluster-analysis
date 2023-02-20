@@ -6,7 +6,7 @@ The objective of this study is to cluster 𝟏𝟔𝟕 countries using socio-eco
 The relevant data set consists of data from 𝟏𝟔𝟕 countries and for each country there
 are 𝟗 factors as shown below:
 
-1. . Child_mortality: Death of children under 5 years of age per 1000 live births.
+1. Child_mortality: Death of children under 5 years of age per 1000 live births.
 2. Exports: Exports of goods and services per capita. Given as %age of the GDP per
 capita.
 3. Health: Total health spending per capita. Given as %age of GDP per capita.
